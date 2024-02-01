@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\PersonStudentProfessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\PersonStudentProfessor.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\PersonStudentProfessor.AssemblyInfo.cs
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\PersonStudentProfessor.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\bin\Debug\net8.0\PersonStudentProfessor.exe
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\bin\Debug\net8.0\PersonStudentProfessor.deps.json
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\bin\Debug\net8.0\PersonStudentProfessor.runtimeconfig.json
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\bin\Debug\net8.0\PersonStudentProfessor.dll
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\bin\Debug\net8.0\PersonStudentProfessor.pdb
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\PersonStudentProfessor.dll
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\refint\PersonStudentProfessor.dll
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\PersonStudentProfessor.pdb
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\PersonStudentProfessor.genruntimeconfig.cache
+C:\Users\USER\Desktop\Csharp final\PersonStudentProfessor\obj\Debug\net8.0\ref\PersonStudentProfessor.dll
